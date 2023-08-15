@@ -1,2 +1,2 @@
-# Movie-recommendation-System
+# Movie-Recommendation-System
 Recommending movies to users can be done in multiple ways using content-based filtering and collaborative filtering approaches. Content-based filtering approach primarily focuses on the item similarity i.e., the similarity in movies, whereas collaborative filtering focuses on drawing a relation between different users of similar choices in watching movies.Based on the plot of a movie that was watched by the user in the past, movies with a similar plot can be recommended to the user. This approach comes under content-based filtering as the recommendations are done only based on the user’s past activity.
